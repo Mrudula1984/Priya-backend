@@ -1,0 +1,12 @@
+{
+  "name": "priya-backend",
+  "version": "1.0.0",
+  "description": "Priya Voice Agent Backend - Claude API Proxy",
+  "main": "api.js",
+  "scripts": {
+    "dev": "node api.js"
+  },
+  "keywords": ["voice", "agent", "claude", "ai"],
+  "author": "Mrudula Dasari",
+  "license": "MIT"
+}
